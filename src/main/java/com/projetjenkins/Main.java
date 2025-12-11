@@ -7,7 +7,7 @@ public class Main {
         // Message modifié pour déclencher le build automatique #2 dans Jenkins
         System.out.println("Hello Jenkins – Build automatique réussi !");
 
-        System.out.println("Petite demonstration");
+        System.out.println("Démonstration pour le test automatique");
 
         for (int i = 1; i <= 5; i++) {
             System.out.println("i = " + i);
